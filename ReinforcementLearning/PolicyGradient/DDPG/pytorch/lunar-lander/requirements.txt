@@ -1,0 +1,4 @@
+torch==1.13.1
+gym[box2d]==0.21.0
+matplotlib==3.3.4
+numpy==1.22.0
